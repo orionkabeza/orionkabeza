@@ -2,55 +2,68 @@
 
 # Orion Kabeza
 
-### I build infrastructure, not just apps.
+### Full-stack engineer who builds infrastructure, not just apps.
 
-**Software Engineer · Kigali, Rwanda 🇷🇼 · African Leadership University**
+**Kigali, Rwanda 🇷🇼 · Software Engineering @ African Leadership University**
 
 [![Email](https://img.shields.io/badge/Email-o.kabeza%40alustudent.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:o.kabeza@alustudent.com)
 [![GitHub](https://img.shields.io/badge/GitHub-orionkabeza-181717?style=flat-square&logo=github)](https://github.com/orionkabeza)
-![Focus](https://img.shields.io/badge/Focus-Health%20Tech%20%C2%B7%20Security%20Engineering%20%C2%B7%20Backend-2E8B57?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Health%20Tech%20%C2%B7%20Security%20%C2%B7%20Web%20Infrastructure-2E8B57?style=flat-square)
 
 </div>
 
 ---
 
-> I care about the kind of software that has to work when it matters — systems that handle
-> sensitive data, survive bad connectivity, and serve people who were never the "default user."
-> That means security as a floor, offline as a feature, and auditability as a habit.
+> I care about software that has to work when it matters — systems that handle sensitive
+> data, survive bad connectivity, and serve people who were never the "default user."
+> Security as a floor, offline as a feature, auditability as a habit.
 
 ---
 
 ## 🛠️ What I do
 
-### Backend Engineering
-I design and ship full-stack systems in **Python/Flask** — REST APIs at the scale of **180+ endpoints**, relational schemas of **60+ tables** with idempotent migrations, role-based products serving **six distinct user types** from a single codebase. I think in flows, not pages: a prescription isn't a form, it's a doctor, a pharmacist, an insurer, and an audit trail agreeing with each other.
+**Backend & full-stack engineering.** I design and ship complete systems in **Python/Flask** — REST APIs at the scale of **180+ endpoints**, relational schemas of **60+ tables** with idempotent migrations, and role-based products serving **six distinct user types** from a single codebase. I think in flows, not pages: a prescription isn't a form, it's a doctor, a pharmacist, an insurer, and an audit trail agreeing with each other.
 
-### Security Engineering
-Healthcare-grade security posture, applied by default:
-- 🔐 **RBAC on every data route** — ownership re-verified in the query itself, never trusted from the session
-- 🛡️ **Defense in depth** — CSRF tokens, per-endpoint rate limiting, hardened HTTP security headers, parameterized queries everywhere
-- 🔑 **Multi-factor auth** — short-lived hashed OTPs over email/SMS, emergency-override paths that are logged, not hidden
-- 📜 **Append-only audit logging** on every state change — enough context to reconstruct any event
-- 🧪 I write my own **security audit tooling** and production readiness checks, and run them before anything ships
+**Security engineering.** Healthcare-grade posture applied by default: RBAC enforced in the query itself (never trusted from the session), CSRF tokens, per-endpoint rate limiting, hardened security headers, parameterized queries everywhere, short-lived hashed OTPs for MFA, and append-only audit logging on every state change. I write my own security audit tooling and run it before anything ships.
 
-### Infrastructure & Resilience
-- ⚖️ Web infrastructure & load balancing — **Nginx / HAProxy** across multi-server Linux deployments
-- 📱 **Offline-first PWAs** — service workers and sync queues, because connectivity in the field is a design constraint, not an assumption
-- 🔔 Real-time push with **Firebase Cloud Messaging**; QR-based workflows for the physical world
-- 🚀 Deploy-anywhere discipline: environment-driven config, no secrets in code, SQLite→PostgreSQL portability
+**Web infrastructure & systems.** Multi-server Linux deployments behind **Nginx / HAProxy** load balancers, configuration management with **Puppet**, Bash automation, and low-level fundamentals in **C** — memory, processes, and the layers most web developers never look under.
 
-### AI Integration
-I integrate LLMs into products the responsible way — **hard guardrails, scoped prompts, and explicit disclaimers** — for symptom triage, drug-interaction checks, and plain-language explanations of medical data.
+**Resilience engineering.** Offline-first PWAs with service workers and sync queues — because connectivity in the field is a design constraint, not an assumption. Real-time push with Firebase Cloud Messaging, QR-based workflows for the physical world, environment-driven config with no secrets in code.
+
+**AI integration.** LLMs wired into products the responsible way — hard guardrails, scoped prompts, and explicit disclaimers — for symptom triage, drug-interaction checks, and plain-language explanations of medical data.
 
 ---
 
-## 🚧 Currently building
+## 🚧 Flagship project: MediConnect
 
-**MediConnect** — a full-stack healthcare infrastructure platform connecting patients, doctors, pharmacists, hospitals, and insurers, designed for Rwanda first and built to scale across Africa.
+A full-stack healthcare infrastructure platform connecting **patients, doctors, pharmacists, hospitals, and insurers** — designed for Rwanda first, built to scale across Africa.
 
-It's in active development on the road to production, so the codebase stays private for now. What I can share: **13,500+ lines of Python, 180+ routes, a 65-table schema, six user roles under strict RBAC, an offline-capable PWA, and an AI health assistant with hard safety guardrails** — engineered to the security standard patient data demands.
+In active development on the road to production, so the codebase stays private for now. What I can share:
+
+|  |  |
+|---|---|
+| **Scale** | 13,500+ lines of Python · 180+ routes · 65-table schema |
+| **Access control** | Six user roles under strict RBAC, ownership verified per-query |
+| **Resilience** | Offline-capable PWA with background sync |
+| **Intelligence** | AI health assistant with hard safety guardrails |
+| **Trust** | MFA, append-only audit logs, healthcare-grade security posture |
 
 More soon. 👀
+
+---
+
+## 📂 Selected public work
+
+| Project | What it shows |
+|---|---|
+| [**finance-tracker-app**](https://github.com/orionkabeza/finance-tracker-app) | Student finance tracker in **vanilla HTML/CSS/JS** — no framework crutches, just the platform |
+| [**alu-system_engineering-devops**](https://github.com/orionkabeza/alu-system_engineering-devops) | Web infrastructure: **Nginx, HAProxy load balancing, Puppet** config management, multi-server debugging |
+| [**secure-vault**](https://github.com/orionkabeza/secure-vault) | Shell-based secure storage tooling — security thinking at the scripting layer |
+| [**deploy_agent_orionkabeza**](https://github.com/orionkabeza/deploy_agent_orionkabeza) | Deployment automation in Bash — repeatable releases, not manual SSH heroics |
+| [**math-endpoint**](https://github.com/orionkabeza/math-endpoint) | Lightweight Python API service — clean endpoint design in miniature |
+| [**regex-momo-extraction**](https://github.com/orionkabeza/regex-momo-extraction) | Structured data extraction from mobile-money records with Python + regex |
+| [**alu-higher_level_programming**](https://github.com/orionkabeza/alu-higher_level_programming) | Python from OOP to SQL — the fundamentals, done properly |
+| [**alu-shell**](https://github.com/orionkabeza/alu-shell) | Linux shell scripting: permissions, redirections, process management |
 
 ---
 
@@ -60,13 +73,17 @@ More soon. 👀
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-1A1A1A?style=for-the-badge)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
