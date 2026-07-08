@@ -59,6 +59,25 @@ More soon. 👀
 *This section updates automatically — freshest work first.*
 
 <!-- REPOS:START -->
+| Repository | Description | Language | ⭐ |
+|---|---|---|---|
+| [**alu-system_engineering-devops**](https://github.com/orionkabeza/alu-system_engineering-devops) | — | Puppet | 0 |
+| [**alu-scripting**](https://github.com/orionkabeza/alu-scripting) | — | Python | 0 |
+| [**math-endpoint**](https://github.com/orionkabeza/math-endpoint) | — | Python | 0 |
+| [**alu-back-end**](https://github.com/orionkabeza/alu-back-end) | — | Python | 0 |
+| [**finance-tracker-app**](https://github.com/orionkabeza/finance-tracker-app) | Student Finance Tracker — vanilla HTML/CSS/JS | JavaScript | 0 |
+| [**alu-web-development**](https://github.com/orionkabeza/alu-web-development) | — | HTML | 0 |
+| [**alu-regex-data-extraction_orionkabeza**](https://github.com/orionkabeza/alu-regex-data-extraction_orionkabeza) | — | Python | 0 |
+| [**regex-momo-extraction**](https://github.com/orionkabeza/regex-momo-extraction) | — | Python | 0 |
+| [**lab2_orionkabeza**](https://github.com/orionkabeza/lab2_orionkabeza) | Individual lab assignment | Python | 0 |
+| [**alu-higher_level_programming**](https://github.com/orionkabeza/alu-higher_level_programming) | — | Python | 0 |
+| [**group6-python-quests**](https://github.com/orionkabeza/group6-python-quests) | — | Python | 0 |
+| [**python-if_else_loops_functions**](https://github.com/orionkabeza/python-if_else_loops_functions) | — | Python | 0 |
+| [**deploy_agent_orionkabeza**](https://github.com/orionkabeza/deploy_agent_orionkabeza) | Individual Summative Lab | Shell | 0 |
+| [**alu-shell**](https://github.com/orionkabeza/alu-shell) | Intranet shell scripting | Shell | 0 |
+| [**secure-vault**](https://github.com/orionkabeza/secure-vault) | — | Shell | 0 |
+| [**project_demo**](https://github.com/orionkabeza/project_demo) | — | Shell | 0 |
+| [**alu-zero_day**](https://github.com/orionkabeza/alu-zero_day) | This is my first repository as a full-stack engineer | Shell | 0 |
 <!-- REPOS:END -->
 
 ---
