@@ -61,6 +61,7 @@ More soon. 👀
 <!-- REPOS:START -->
 | Repository | Description | Language | ⭐ |
 |---|---|---|---|
+| [**disaster-warning-map**](https://github.com/orionkabeza/disaster-warning-map) | East Africa Disaster Early-Warning Map — plots live natural-hazard events across the region and layers on the nearest health facilities/shelters, so the map answers not just "what's happening" but "where do I go." | — | 0 |
 | [**alu-system_engineering-devops**](https://github.com/orionkabeza/alu-system_engineering-devops) | — | Shell | 0 |
 | [**alu-webstack**](https://github.com/orionkabeza/alu-webstack) | — | Shell | 0 |
 | [**alu-scripting**](https://github.com/orionkabeza/alu-scripting) | — | Python | 0 |
