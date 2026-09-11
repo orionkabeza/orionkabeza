@@ -61,7 +61,7 @@ More soon. 👀
 <!-- REPOS:START -->
 | Repository | Description | Language | ⭐ |
 |---|---|---|---|
-| [**alu-AirBnB_clone**](https://github.com/orionkabeza/alu-AirBnB_clone) | — | — | 0 |
+| [**alu-AirBnB_clone**](https://github.com/orionkabeza/alu-AirBnB_clone) | — | Python | 0 |
 | [**urban-mobility-data-explorer-scaffold**](https://github.com/orionkabeza/urban-mobility-data-explorer-scaffold) | — | Python | 0 |
 | [**canvas-mcp**](https://github.com/orionkabeza/canvas-mcp) | MCP server wrapping the Canvas LMS REST API so Claude can act as a study assistant | Python | 0 |
 | [**disaster-warning-map**](https://github.com/orionkabeza/disaster-warning-map) | Live natural-hazard map for Africa that plots events from NASA EONET and USGS, then finds the nearest hospitals and clinics from OpenStreetMap. Deployed across two web servers behind a HAProxy load balancer. | JavaScript | 0 |
