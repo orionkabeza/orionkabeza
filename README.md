@@ -61,7 +61,7 @@ More soon. 👀
 <!-- REPOS:START -->
 | Repository | Description | Language | ⭐ |
 |---|---|---|---|
-| [**StrokeCare**](https://github.com/orionkabeza/StrokeCare) | — | — | 0 |
+| [**StrokeCare**](https://github.com/orionkabeza/StrokeCare) | — | Python | 0 |
 | [**EWD_Summative**](https://github.com/orionkabeza/EWD_Summative) | — | Python | 0 |
 | [**multi-algo-endpoint**](https://github.com/orionkabeza/multi-algo-endpoint) | — | Python | 0 |
 | [**urban-mobility-data-explorer-scaffold**](https://github.com/orionkabeza/urban-mobility-data-explorer-scaffold) | — | Python | 0 |
